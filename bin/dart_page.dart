@@ -2,7 +2,6 @@
 void main (){
 
   // print
-  print("Huzaifa sani");
 
   String name = "joy";
   int number = 45;
@@ -37,6 +36,8 @@ void main (){
   print(number.runtimeType);
   print(number.isEven);
   print(number.isNegative);
+  print(number.isEven);
+
 
   // single line comment
   /*
