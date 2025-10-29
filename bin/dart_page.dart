@@ -7,7 +7,7 @@ void main (){
   int number = 45;
   double cgpa= 4.25;
   bool right = true;
-  var myvar = "This is var value";
+  var myvar = "This isda var value";
   dynamic mydynamic = "This is dynamic valu";
   mydynamic = 25;
   mydynamic = 25.4;
@@ -45,6 +45,8 @@ void main (){
   This is multiline comment
 
    */
+
+
 
 
 
